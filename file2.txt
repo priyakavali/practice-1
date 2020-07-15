@@ -1,7 +1,7 @@
 
 i
 
-public class Prime {
+iipublic class Prime {
 
     public static void main(String[] args) {
 
